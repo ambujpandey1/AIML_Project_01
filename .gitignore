@@ -37,8 +37,8 @@ coverage.xml
 aipack06/indians-diabetes.data.csv
 aipack06/rideshare_dataset.csv
 
-aipack05/DataSet_Animal_Center_Intakes.csv
-aipack05/DataSet_Animal_Center_Outcomes.csv
-aipack05/employees_with_missing_data.csv
+#aipack05/DataSet_Animal_Center_Intakes.csv
+#aipack05/DataSet_Animal_Center_Outcomes.csv
+#aipack05/employees_with_missing_data.csv
 
-aipack04/outputData.xlsx
+#aipack04/outputData.xlsx
