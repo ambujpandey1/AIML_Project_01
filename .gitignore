@@ -42,3 +42,6 @@ aipack06/rideshare_dataset.csv
 #aipack05/employees_with_missing_data.csv
 
 #aipack04/outputData.xlsx
+
+aipack07/LinearRegressionPoly_Data.csv
+aipack07/LR_House_price.csv
