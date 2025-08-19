@@ -105,6 +105,10 @@ def predictMovieType():
     #Generate the output of custom question data provided within the code file
     #-----------------------------------------------------------
     my_test_data = [50, 50]  # can be supplied to instance.classifyTestData()
+
+
+
+
     classOfTestData = instance.classifyTestData(test_data=my_test_data , k=5)
     #-----------------------------------------------------------
     print( "predictMovieType### classOfTestData=", classOfTestData )
